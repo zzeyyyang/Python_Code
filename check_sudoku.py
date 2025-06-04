@@ -1,4 +1,4 @@
-def check_suduku(p):
+def check_sudoku(p):
 	n = len(p)
 	digit = 1
 	while digit <= n:
